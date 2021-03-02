@@ -2,7 +2,7 @@
 
  <img align="center" alt="Illustration" src="./illu.svg" width="500" height="320" />
 
-Former learner in multimdedia writing where I discovered web development, I joined the BeCode training in September 2020 to become a web developer.
+Former learner in multimedia writing where I discovered web development, I joined the BeCode training in September 2020 to become a web developer.
 
 In the code, I see an opportunity to grow and build whatever I want using tools and languages that are evolving every day. I really want to add something to this growing digital world.
 
