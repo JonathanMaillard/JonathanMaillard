@@ -29,7 +29,7 @@ My team player spirit, reliability and kindness make me an easy fit in any group
 ### Some of my projects
 
 - [Museum project](https://bastlaf.github.io/museum-project/)
-- [Codepen stuff](https://codepen.io/bastlaf)
+- [Codepen stuff](https://codepen.io/Jona19952)
 - [Forum built in PHP 1](https://github.com/bastlaf/Forum-bcbb-the-who)
 - [Forum built in PHP 2](https://github.com/bastlaf/Forum-bcbb-the-who)
 - [WordPress Project](https://github.com/bastlaf/malabas)
