@@ -13,7 +13,7 @@ My team player spirit, reliability and kindness make me an easy fit in any group
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -28,13 +28,12 @@ My team player spirit, reliability and kindness make me an easy fit in any group
 
 ### Some of my projects
 
-- [Museum project](https://bastlaf.github.io/museum-project/)
+- [Museum project](https://github.com/JonathanMaillard/museum-project)
 - [Codepen stuff](https://codepen.io/Jona19952)
-- [Forum built in PHP 1](https://github.com/bastlaf/Forum-bcbb-the-who)
-- [Forum built in PHP 2](https://github.com/bastlaf/Forum-bcbb-the-who)
-- [WordPress Project](https://github.com/bastlaf/malabas)
-- [React Pomodoro](https://github.com/bastlaf/pomodoro)
-- [Mwenbwa](https://github.com/bastlaf/pomodoro)
+- [Forum built in PHP 1](https://github.com/JonathanMaillard/BCBB-Forum)
+- [Forum built in PHP 2](https://github.com/JonathanMaillard/Forum) (I switched groups in the middle of the project to simulate a departure and an arrival of a colleague)
+- [WordPress Project](https://github.com/JonathanMaillard/cms-restaurants)
+- [Mwenbwa](https://github.com/JonathanMaillard/Mwenbwa)
 
 <br />
 ---
@@ -45,7 +44,10 @@ My team player spirit, reliability and kindness make me an easy fit in any group
 [linkedin]: https://www.linkedin.com/in/jonathan-maillard/
 
 <br />
+<br />
 ---
+<br />
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -53,6 +55,7 @@ My team player spirit, reliability and kindness make me an easy fit in any group
   <img align="left" alt="Jonathan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JonathanMaillard&show_icons=true&hide_border=true" />
 
 </details>
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
